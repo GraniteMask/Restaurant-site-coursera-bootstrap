@@ -2,6 +2,8 @@
 
 ![Sociogram Home Page](https://github.com/GraniteMask/Restaurant-site-coursera-bootstrap/blob/master/confusion.png?raw=true)
 
+Link: https://resturant-confusion.netlify.app/
+
 Restaurant Website built by using HTML, CSS, JS and BootStrap. This is the course assignment for a Bootstrap 4 course offered by The Hong Kong Institute of Science and Technology.
 
 ## Highlighted Features:
@@ -15,4 +17,4 @@ Restaurant Website built by using HTML, CSS, JS and BootStrap. This is the cours
 7) Feedback form has been created for the customers to give their valuable feedback
 8) Social icons, phone number and email has been provided for easy communication and promotional purposes
 
-Link: https://resturant-confusion.netlify.app/
+
