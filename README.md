@@ -1,6 +1,6 @@
 # Confusion-Restaurant-site-coursera-bootstrap
 
-![Sociogram Home Page](https://github.com/GraniteMask/Restaurant-site-coursera-bootstrap/blob/master/confusion.png?raw=true)
+![confusion-Restaurant-site-coursera-bootstrap](https://github.com/GraniteMask/confusion-Restaurant-site-coursera-bootstrap/blob/master/confusion.png?raw=true)
 
 Link: https://resturant-confusion.netlify.app/
 
